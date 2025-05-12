@@ -1,7 +1,7 @@
 ---
 title: "Microbiome and Community analysis"
 author: "Kendra Maas"
-date: "December 16, 2024"
+date: "May 12, 2025"
 output: html_document
 ---
 
@@ -14,14 +14,14 @@ Microbes control the world! And with advances in molecular techniques, esp. DNA 
 
 Basic Schedule. We will roughly follow this, but the exact amount of time we spend on each topic will be adjusted depending on the class.
 
-In class discussions and commands will be posted in an etherpad <https://etherpad.mit.edu/p/20241216MEworkshop>
+In class discussions and commands will be posted in an etherpad <https://etherpad.mit.edu/p/20250512MEworkshop>
 
 
 Day|Session|Topic
 ------|-------|--------
-Day 1|Morning|[Introduction to communities](https://krmaas.github.io/20241216MEworkshop/intro.communities.html)
-.|.|[Overview of wetlab](https://krmaas.github.io/20241216MEworkshop/introWetLab.html) 
-.|.|[Potential wetlab errors](https://krmaas.github.io/20241216MEworkshop/wetLabErrors.html)
+Day 1|Morning|[Introduction to communities](https://krmaas.github.io/20250512MEworkshop/intro.communities.html)
+.|.|[Overview of wetlab](https://krmaas.github.io/20250512MEworkshop/introWetLab.html) 
+.|.|[Potential wetlab errors](https://krmaas.github.io/20250512MEworkshop/wetLabErrors.html)
 .|Afternoon| Introduction to Basespace and Command Line 
 .|.|Begin mothur processing
 .|.|Sequencing quality control
