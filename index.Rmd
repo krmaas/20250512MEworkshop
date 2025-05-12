@@ -22,7 +22,7 @@ Day|Session|Topic
 Day 1|Morning|[Introduction to communities](https://krmaas.github.io/20250512MEworkshop/intro.communities.html)
 .|.|[Overview of wetlab](https://krmaas.github.io/20250512MEworkshop/introWetLab.html) 
 .|.|[Potential wetlab errors](https://krmaas.github.io/20250512MEworkshop/wetLabErrors.html)
-.|Afternoon| Introduction to Basespace and Command Line 
+.|Afternoon| [Introduction to Basespace and Command Line](https://krmaas.github.io/20250512MEworkshop/intro.seq.analysis.html)
 .|.|Begin mothur processing
 .|.|Sequencing quality control
 Day 2|Morning|Continue mothur processing
