@@ -16,6 +16,12 @@ Basic Schedule. We will roughly follow this, but the exact amount of time we spe
 
 In class discussions and commands will be posted in an etherpad <https://etherpad.mit.edu/p/20250512MEworkshop>
 
+[Kendra's R script from the workshop]
+
+[Kendra's mothur cheatsheet]
+
+Theta YC paper <https://www.tandfonline.com/doi/full/10.1080/STA-200066418>
+
 
 Day|Session|Topic
 ------|-------|--------
