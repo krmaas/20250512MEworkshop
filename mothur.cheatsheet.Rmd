@@ -42,7 +42,7 @@ Command | Purpose | Finer Points
 ---------------|----------------------|--------------------
 pre.cluster(diffs) | cluster at 1% differences to reduce computation cost | greedy clustering, balance reducing data w/maintaining diversity  
 summary.seqs() |  | Check change in unique sequences
-chimera.uchime(dereplicate) | de novo find chimera within each sample | dereplicate, remove chimera from all samples?  
+chimera.vsearch(dereplicate) | de novo find chimera within each sample | dereplicate, remove chimera from all samples?  
 remove.seqs() | | defaults remove all flagged seqs  
 summary.seqs() | |  
 
@@ -53,6 +53,8 @@ Command | Purpose | Finer Points
 classify.seqs(reference, taxonomy) | | default Wang/RDP  
 remove.lineage(taxon) | remove wetlab bycatch | Chloroplast-Mitochondria-unknown-Archaea-Eukaryota  
 summary.tax() | | file for Krona plots  
+dist.seqs(cutoff) |   | Bacteria 0.03, Fung 0.05?;
+cluster(method=opti) | | ;
 cluster.split(splitmethod, taxlevel, cutoff) | heuristic cluster within taxon | limiting by classification reduces computation without greedy  
 make.shared(label) | create OTU table | uneven seqs/sample  
 classify.otu() | attach names to OTUs | Doesn't impact clustering  
